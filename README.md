@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @automannen
-- 👀 I’m interested in cybersecurity, random automazation scripts and creative ideas
+- 👀 I’m interested in hecking
 - 🌱 I’m currently learning to code
 - 📫 How to reach me you better not
 
